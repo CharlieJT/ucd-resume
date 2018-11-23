@@ -26,7 +26,17 @@
     background-color: #525252;
 }
 
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300px;
+    background-color: #525252;
+    color: #555;
+}
+
+
 /*----------------------------------------Special Paddings/Margins/Text*/
+
 
 h1,
 h2,
@@ -85,7 +95,6 @@ header {
     transition: all 0.5s ease-in-out;
     -moz-transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
-    -o-transition: all 0.5s ease-in-out;
 }
 
 .name {
@@ -102,6 +111,7 @@ header {
     font-size: 28px;
     margin-top: 20px;
     margin-bottom: 90px;
+    color: #fff;
 }
 
 #nav {

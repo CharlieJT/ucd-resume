@@ -361,6 +361,10 @@ button[type="submit"] {
     color: #fafafa;
 }
 
+.form-control {
+    margin-bottom: 10px;
+}
+
 /*----------------------------------------Media Queries*/
 
 @media (min-width: 992px) {

@@ -341,11 +341,12 @@ footer .cv-pdf i:hover {
 
 /*----------------------------------------Contact*/
 
-.contact-heading {
+.contact-header {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
+    padding-top: 15px;
 }
 
 .center-form {
